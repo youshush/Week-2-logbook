@@ -32,3 +32,13 @@ I created a program where the code outputs the numbers from 0 to 9 and ive done 
 <img width="496" height="386" alt="image" src="https://github.com/user-attachments/assets/0857432e-3f16-419a-8560-dca81c9d9136" />
 <img width="496" height="386" alt="image" src="https://github.com/user-attachments/assets/0857432e-3f16-419a-8560-dca81c9d9136" />
 I created a program in which it printed out the 7 times tables and i did this by making a for loop with the parameters i=1 which starts at 1 and then i<=12 which goes up to 12 and i++ which increments by 1 each time. I then wrote (i*7) which makes the current value times by 7 and the calucaltion is displayed in a formatted output. I tested the program and it correctly formed the 7 times table from 1 to 12.
+
+<img width="1569" height="558" alt="image" src="https://github.com/user-attachments/assets/635b5df4-e27b-40a5-a135-84333b3aee75" />
+<img width="754" height="409" alt="image" src="https://github.com/user-attachments/assets/821e3b37-50e5-4b14-9f3e-99a284b5cd07" />
+I created this program basically identical to the previous one but added the scanner class so that the user can input a number they want and then it will give them times table for that number until 12. I kept the for loop the same but added the number variable which is from the users input and then i ran the program and it worked correctly.
+
+<img width="2066" height="785" alt="image" src="https://github.com/user-attachments/assets/1e7cadfa-0f67-462b-a92c-77bf41b72582" />
+<img width="836" height="380" alt="image" src="https://github.com/user-attachments/assets/2ab95dcc-5c73-4d62-a534-d24bfb1ec778" />
+<img width="674" height="346" alt="image" src="https://github.com/user-attachments/assets/de266de4-de17-43eb-8284-e459ae6f2f69" />
+<img width="690" height="115" alt="image" src="https://github.com/user-attachments/assets/8e156b34-dd67-449e-ad15-bca70e4f5367" />
+I created this program to allow for a user to input a number for the times table they want to see and i made it a do while loop so that the program runs first and then asks if they want to continue. The user enters a number and the for loop displays it from 1 to 12. If the users wants to continue they press Y so it restarts and if they type N then the program will end and it will display a goodbye message. I encountered errors such as forgetting semi colons at end of code lines and typing i = 1 instead of adding the int part before it. Once i fixed these issues the code worked as intended and i inputted different results to show that it worked.
