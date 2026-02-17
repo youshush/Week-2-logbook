@@ -42,3 +42,22 @@ I created this program basically identical to the previous one but added the sca
 <img width="674" height="346" alt="image" src="https://github.com/user-attachments/assets/de266de4-de17-43eb-8284-e459ae6f2f69" />
 <img width="690" height="115" alt="image" src="https://github.com/user-attachments/assets/8e156b34-dd67-449e-ad15-bca70e4f5367" />
 I created this program to allow for a user to input a number for the times table they want to see and i made it a do while loop so that the program runs first and then asks if they want to continue. The user enters a number and the for loop displays it from 1 to 12. If the users wants to continue they press Y so it restarts and if they type N then the program will end and it will display a goodbye message. I encountered errors such as forgetting semi colons at end of code lines and typing i = 1 instead of adding the int part before it. Once i fixed these issues the code worked as intended and i inputted different results to show that it worked.
+
+<img width="1329" height="832" alt="image" src="https://github.com/user-attachments/assets/1f4ed868-a08f-4cf5-8675-3bfa3ebc375c" />
+<img width="593" height="66" alt="image" src="https://github.com/user-attachments/assets/195354ca-cfac-4a20-9d95-3782398f7c1a" />
+<img width="635" height="70" alt="image" src="https://github.com/user-attachments/assets/b8ce0c95-4246-4400-9f76-939cb945e275" />
+<img width="561" height="63" alt="image" src="https://github.com/user-attachments/assets/db923b0b-fe64-4d68-8b7d-2e454bff52c1" />
+<img width="585" height="60" alt="image" src="https://github.com/user-attachments/assets/c13f7f48-2018-44f7-8752-dcae397897c0" />
+<img width="577" height="60" alt="image" src="https://github.com/user-attachments/assets/6ca240cb-2e1d-4068-b051-37270da86004" />
+I have created this program to allow a user to enter a mark between 0 and 100 and i use if statements to give a grade based on the amount of marks they got. I used to scanner library to allow for user input and this time when i created the program i only missed a semi colon at the end of the code which was quickly fixed and thus resulted in the program working correctly.
+
+<img width="1216" height="394" alt="image" src="https://github.com/user-attachments/assets/db35dc3a-34d3-4f72-9be7-3b710de2ed45" />
+<img width="319" height="177" alt="image" src="https://github.com/user-attachments/assets/aba3734d-d8fc-49cb-bdf2-3215fcc97293" />
+I created this program to output only even numbers and i did this by making a for loop which starts at 1, is less or equal to 10 and goes up in 1.Then i created a if statement where if i divided by 2 is 0 then it means its even so it will print it.
+
+<img width="1660" height="932" alt="image" src="https://github.com/user-attachments/assets/42367bb6-b22b-4153-95e8-2b60fe6c64f9" />
+<img width="926" height="94" alt="image" src="https://github.com/user-attachments/assets/b52ea00f-79f3-4d9c-8180-e2bbd96d8b7a" />
+<img width="938" height="91" alt="image" src="https://github.com/user-attachments/assets/aa223c72-aa31-4342-b436-30b2b502fe9f" />
+<img width="924" height="62" alt="image" src="https://github.com/user-attachments/assets/f9ae215d-874f-414a-91f9-f2dd9caeb6da" />
+
+I created this program to convert both feet to miles and miles to feet and i did this by creating an if statement based on if the user presses m or f. If he presses f it will tell him to input number of feet and it will give the miles and vice versa if the user presses m. I also did a else statement to make sure if they dont press either then it will output with invalid input. I encountered some syntax issues such as missing semi colons at the end of the code line and some spelling mistakes but once those were fixed it worked perfectly.
